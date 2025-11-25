@@ -2,7 +2,7 @@
 
 This project is a documentation study examining the performance of different deep learning architectures in the lane detection task. The behavior, outputs, and architectural visuals of each model are described under separate headings.
 
-## 🚗 Veri Setim
+## 🚗 Dataset
 
 This study was conducted using the TuSimple Lane Detection Dataset.
 
